@@ -19,7 +19,7 @@
         android:id="@+id/resultFragment"
         android:name="edu.iu.habahram.guessinggame_completed.ResultFragment"
         android:label="fragment_result"
-        tools:layout="@layout/fragment_result" >
+        >
         <argument
             android:name="result"
             app:argType="string" />
